@@ -1,1 +1,1 @@
-# wireframe-exerice
+# wireframe-exercise
